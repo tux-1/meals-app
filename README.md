@@ -6,7 +6,6 @@ Meals App is a mobile application developed using Dart and the Flutter framework
 
 - **Meal Filters:** Explore a variety of meals with customizable filters.
 
-
 ## Technologies Used
 
 - Dart
@@ -24,3 +23,7 @@ To run this application locally, follow these steps:
 ## Contributing
 
 If you would like to contribute to the development of this project, DM me on discord **@tuxedo**.
+
+## License
+
+This project is licensed under the [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT).
